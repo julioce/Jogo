@@ -1,14 +1,20 @@
 ﻿CACHE MANIFEST
-#1372826582
+#1372908010
 index.html
 c2runtime.js
 jquery-2.0.0.min.js
 logo.png
-public\backgroundtile.png
-public\player-sheet0.png
-public\solidtile.png
-public\movingsolidtile.png
-public\jumpthrutile.png
-public\saída-sheet0.png
+images\backgroundtile.png
+images\player-sheet0.png
+images\solidtile.png
+images\movingsolidtile.png
+images\jumpthrutile.png
+images\saída-sheet0.png
+images\sprite-sheet0.png
+images\sprite2-sheet0.png
+images\sprite2-sheet1.png
+images\sprite3-sheet0.png
+images\sprite3-sheet1.png
+images\sprite3-sheet2.png
 NETWORK:
 *

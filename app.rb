@@ -1,5 +1,8 @@
 require 'sinatra'
 
+# Adds gzip compression to requests
+use Rack::Deflater
+
 # Default router
 get '/' do
 	# Loads the view file
